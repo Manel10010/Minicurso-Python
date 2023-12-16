@@ -172,8 +172,6 @@ correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na 
 Exercício Python 37: Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão 
 conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 
-
-
 Exercício Python 38: Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar 
 se a expressão passada está com os parênteses abertos e fechados na ordem correta.
 
@@ -200,9 +198,6 @@ gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo e
 
 Exercício Python 44: Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre 
 um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
-
-Desafios Listas:
-================================
 
 Exercício Python 45: Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 
