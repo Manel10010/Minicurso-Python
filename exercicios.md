@@ -306,7 +306,8 @@ e sua população. A classe deve possuir os seguintes construtores e métodos:
 
     a) Construtor que inicialize o nome, capital, dimensão e população do país; 
 
-    b) Obter densidade demografica - Método que retorna a densidade populacional calculada através das propriedades do país.
+    b) Obter densidade demografica - Método que retorna a densidade populacional 
+    calculada através das propriedades do país.
 
 Exercício Python 64:
 
@@ -318,6 +319,7 @@ Escreva uma classe que represente um triângulo. Esta classe deve possuir um mé
       
     a) ObterPerimetro – Retorna o perímetro da figura representada 
 
-    b) ObterTipo – Retorna o tipo do triângulo: Equilátero, Isósceles ou Escaleno
+    b) ObterTipo – Retorna o tipo do triângulo: 
+    -Equilátero, Isósceles ou Escaleno
 
 Créditos: https://www.scribd.com/document/374615607/Exercicios-Classes-e-Objetos
