@@ -3,7 +3,7 @@ Exercício Python 2: Faça um programa que receba um número inteiro e verifique
 número é par ou ímpar.
 """
 
-numero = int(input())
+numero = int(input("Digite um valor e saiba se ele é par ou ímpar: "))
 
 if numero % 2 == 0:
     print("É par")
