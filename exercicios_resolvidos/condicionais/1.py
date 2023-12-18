@@ -1,5 +1,5 @@
 """
-Exercício Python 41: Escreva um programa que leia do teclado as duas notas de um aluno, 
+Exercício Python 1: Escreva um programa que leia do teclado as duas notas de um aluno, 
 calcule e exiba a média aritmética das notas. O programa deve, adicionalmente, exibir uma 
 mensagem de parabéns caso o aluno esteja aprovado (média superior ou igual a 5,0)
 """
